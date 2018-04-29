@@ -22,6 +22,7 @@
 ## Docker
 - Monitoring
 	- [Monitoring with Prometheus](https://github.com/internet-com/dockprom)
+	- [Docker auto scaler](https://github.com/internet-com/cep-auto-scaler)
 
 ## Databases
 - Mongodb
